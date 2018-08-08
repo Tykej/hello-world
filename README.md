@@ -1,2 +1,2 @@
 # hello-world
-This is depository. 
+Sup, my dudes.
